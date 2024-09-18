@@ -1,5 +1,5 @@
 # 💫 About Me:
-👨‍💻 I'm working as a Technical Product Manager at Space Kidz India<br>💻Certified AI Expert - QpiAI and IISc, Bangalore specialized in Data Science<br>
+👨‍💻 I'm working as a Technical Product Manager at Space Kidz India<br>💻Certified AI Expert - QpiAI and IISc, Bangalore specialized in Data Science<br> ✨Ask me about Data Science, AI, ML, DL, NLP, CV, Product Management
 
 
 ## 🌐 Socials:
